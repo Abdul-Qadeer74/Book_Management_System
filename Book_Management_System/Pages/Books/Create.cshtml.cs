@@ -6,7 +6,8 @@ using Microsoft.Data.SqlClient;
 namespace Book_Management_System.Pages.Books
 {
     public class CreateModel : PageModel
-    {
+    {//Mueed Zaib 25-ST-075
+    //Abdul Qadeer 25-ST-074
         private readonly IConfiguration _configuration;
 
         public CreateModel(IConfiguration configuration)
